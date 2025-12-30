@@ -7,14 +7,15 @@ Hi 👋, I'm Kunal Sharma  <br>> 💻 Second-year engineering student | Aspiring
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=type-ofThings&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=type-ofThings&theme=transparent&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=type-ofThings&theme=transparent&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=type-ofThings&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=type-ofThings&theme=transparent&hide_border=false&layout=compact)
 
-🏆 GitHub Trophies
+## 🏆GitHub Trophies
+--
 ![](https://github-profile-trophy.vercel.app/?username=type-ofThings&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ![](https://visitcount.itsvg.in/api?id=type-ofThings&icon=0&color=0)
 
 
